@@ -1,6 +1,6 @@
 # Tooltip-React-Skill-Test1-Coding-Ninjas
 
-Hosted Website Link :- https://lively-semolina-ebe4bf.netlify.app/
+Hosted Website Link :- 
 
 React Tooltip Project :-
 
@@ -21,7 +21,7 @@ Instructions :-
 Clone this repository to your local machine.
 Install the necessary dependencies using the command npm install.
 Start the development server using npm start.
-Open your web browser and navigate to https://lively-semolina-ebe4bf.netlify.app/ to see the application in action.
+Open your web browser and navigate to                       to see the application in action.
 
 Tooltip Functionality :-
 
@@ -36,16 +36,6 @@ The tooltip will be displayed based on the specified position ("top", "bottom", 
 
 
 
-![Screenshot (3452)](https://github.com/ABHINEET4/Tooltip-React-Skill-Test1-Coding-Ninjas/assets/108821830/febb9056-712d-45a1-a679-fe86255803c9)
-
-
-![Screenshot (3453)](https://github.com/ABHINEET4/Tooltip-React-Skill-Test1-Coding-Ninjas/assets/108821830/77a62a17-e01f-46be-bb95-d2f08a49e6ec)
-
-
-![Screenshot (3454)](https://github.com/ABHINEET4/Tooltip-React-Skill-Test1-Coding-Ninjas/assets/108821830/499e2bd6-ba4c-410f-82b8-1540a4e2f394)
-
-
-![Screenshot (3455)](https://github.com/ABHINEET4/Tooltip-React-Skill-Test1-Coding-Ninjas/assets/108821830/9e5ade35-9258-4235-9978-bf1e77f15da0)
 
 
 
