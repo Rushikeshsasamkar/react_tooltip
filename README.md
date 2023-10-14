@@ -1,6 +1,6 @@
 # Tooltip-React-Skill-Test1-Coding-Ninjas
 
-Hosted Website Link :- 
+Hosted Website Link :-  https://react-tooltip-weld.vercel.app/
 
 React Tooltip Project :-
 
@@ -21,7 +21,7 @@ Instructions :-
 Clone this repository to your local machine.
 Install the necessary dependencies using the command npm install.
 Start the development server using npm start.
-Open your web browser and navigate to                       to see the application in action.
+Open your web browser and navigate to https://react-tooltip-weld.vercel.app/ to see the application in action.
 
 Tooltip Functionality :-
 
