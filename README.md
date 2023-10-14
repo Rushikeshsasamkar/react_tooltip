@@ -34,8 +34,17 @@ Locate the button with the tooltip that you'd like to interact with.
 Hover over the button to trigger the tooltip's appearance.
 The tooltip will be displayed based on the specified position ("top", "bottom", "right", or "left").
 
+
 #  Screenshots
 
+# 1. Top
+![image](https://github.com/Rushikeshsasamkar/react_tooltip/assets/44942941/ffe19bc1-b29f-4814-80b4-2cc7b3fd0c77)
+# 2. Left
+![image](https://github.com/Rushikeshsasamkar/react_tooltip/assets/44942941/fcfaf1c2-f5cf-41b9-a263-aecfb496b607)
+# 3. Right 
+![image](https://github.com/Rushikeshsasamkar/react_tooltip/assets/44942941/18ee273e-5529-42dc-ad47-9355aa960d6d)
+# 4. Down
+![image](https://github.com/Rushikeshsasamkar/react_tooltip/assets/44942941/52b74714-b585-44f9-981b-9969dcf4b2dd)
 
 
 
